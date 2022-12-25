@@ -7,6 +7,10 @@
 
 > Video link : 👉 ************** 👈
 
+## Subject
+
+*Data was gathered from participants in experimental speed dating events from 2002-2004. During the events, the attendees would have a four minute "first date" with every other participant of the opposite sex. At the end of their four minutes, participants were asked if they would like to see their date again. They were also asked to rate their date on six attributes: Attractiveness, Sincerity, Intelligence, Fun, Ambition, and Shared Interests.*
+
 ## Below, you'll find a few tips to fully understand the content of my analysis
 
 ### 1- You can find the whole description of the keys in:
@@ -21,6 +25,7 @@
 >fun = fun\
 >shar = shared interests/hobbies\
 >amb = ambitious
+>samerace = participant and the partner were the same ethnic origin. 1= yes, 0=no
 
 #### the several moments of evaluations
 
@@ -31,6 +36,6 @@
 
 #### Others definitions
 
->int corr = correlation between participant’s and partner’s ratings of interests in Time 1\
+>int_corr = correlation between participant’s and partner’s ratings of interests in Time 1\
 >gender_0 = Female\
 >gender_1 = Male
