@@ -21,6 +21,7 @@
 #### variables on the "scorecard" from each participant:
 >
 >intel = intelligent\
+>sinc = sincerity\
 >attr = attractive\
 >fun = fun\
 >shar = shared interests/hobbies\
