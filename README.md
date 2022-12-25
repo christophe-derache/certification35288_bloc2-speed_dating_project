@@ -16,7 +16,7 @@
 ### 1- You can find the whole description of the keys in:
 - src/Speed_dating_data_key.doc
 
-### 2- Please find below a useful summary
+### 2- Moreover, you'll find below a useful summary
 
 #### variables on the "scorecard" from each participant:
 >
@@ -24,8 +24,8 @@
 >attr = attractive\
 >fun = fun\
 >shar = shared interests/hobbies\
->amb = ambitious
->samerace = participant and the partner were the same ethnic origin. 1= yes, 0=no
+>amb = ambitious\
+>samerace = participant and the partner were the same ethnic origin. 1= yes, 0= no
 
 #### the several moments of evaluations
 
@@ -37,5 +37,6 @@
 #### Others definitions
 
 >int_corr = correlation between participant’s and partner’s ratings of interests in Time 1\
+>order = the number of date that night when met partner\
 >gender_0 = Female\
 >gender_1 = Male
